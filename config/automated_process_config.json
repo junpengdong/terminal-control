@@ -1,0 +1,12 @@
+[
+    {
+        "process_name": "blockymods",
+        "process_type": "tb",
+        "tb_total_equipment": 3000000,
+        "tb_total_execution_days": 30,
+        "tb_daily_active": true,
+        "tb_active_days": 30,
+        "tb_last_retained": 5,
+        "equipment_run_duration": 180
+    }
+]

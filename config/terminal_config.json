@@ -1,0 +1,5 @@
+{
+    "max_meanwhile_equipment": 500,
+    "max_load_cpu": 85,
+    "max_load_memory": 85
+}

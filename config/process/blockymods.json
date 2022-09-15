@@ -1,0 +1,12 @@
+{
+    "2022-09-16": {
+        "new_equipment": 500,
+        "active_equipment": 0,
+        "status": 2
+    },
+    "2022-09-17": {
+        "new_equipment": 500,
+        "active_equipment": 450,
+        "status": 0
+    }
+}
